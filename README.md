@@ -62,7 +62,7 @@ On this GitHub you’ll find experiments and prototypes focused on analytics for
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia%20Gómez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-maria-gomez-alvarez/)
 <br>
-[![Email](https://img.shields.io/badge/natalia.gomez.data@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nagoal@gmail.com)
+[![Email](https://img.shields.io/badge/nagoal@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nagoal@gmail.com)
 <br>
 
 ---
