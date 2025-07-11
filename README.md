@@ -1,3 +1,5 @@
+![https://github.com/nagoal](./natalia_gomez_desk.jpg)
+
 # 👋 Hi, I’m Natalia Gómez! 
 
 Welcome to my GitHub profile. I’m a **Strategic Data & Analytics Leader** with 20+ years of experience applying data to solve real-world problems in financial inclusion, climate finance, and digital transformation.
